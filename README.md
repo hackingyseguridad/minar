@@ -23,6 +23,28 @@ cd xmrig-6.18.1
 
 vim config.json
 
+    "pools": [
+        {
+            "algo": null,
+            "coin": null,
+            "url": "rx.unmineable.com:13333",
+            "user": "BTC:34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
+        }
+    ],
+
+
+
 # Ejecturar xmrig
 
 ./xmrig -a randomx -o rx.unmineable.com:13333 -u BTC:34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX.rig1
