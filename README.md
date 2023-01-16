@@ -4,6 +4,7 @@
 
 # Instalar xmrig, en Linux con CPU x64 bit
 
+Respositorio oficial de xmrig.:  
 https://github.com/xmrig/xmrig/releases
 
 cd /
