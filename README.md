@@ -19,6 +19,8 @@ cd xmrig-6.18.1
 
 # Condiguracion xmrig 
 
+xmrig -a randomx -o rx.unmineable.com:13333 -u 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX.rig1
+
 vim config.json
 
 # Instalar xmrig, en Linux con CPU x32 bit
