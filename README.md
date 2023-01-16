@@ -1,12 +1,9 @@
-# minar
-
 #  Minar Criptominedas 
 
 Monedero BITCOIN 
 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX
 
-
-
+<img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/miner/blob/master/monedero.png">
 
 # Instalar xmrig, en Linux con CPU x64 bit
 
