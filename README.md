@@ -2,6 +2,10 @@
 
 #  Minar Criptominedas 
 
+Monedero BITCOIN
+
+
+
 # Instalar xmrig, en Linux con CPU x64 bit
 
 Instalar binario del respositorio oficial.:  
