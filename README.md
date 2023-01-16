@@ -21,6 +21,28 @@ cd xmrig-6.18.1
 
 vim config.json
 
+# Instalar xmrig, en Linux con CPU x32 bit
+
+sudo apt update && sudo apt full-upgrade
+
+sudo apt-get clean
+
+sudo shutdown -r now (system will reboot)
+
+sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
+
+git clone https://github.com/xmrig/xmrig.git
+
+cd xmrig
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make
+
 
 
 
