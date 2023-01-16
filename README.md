@@ -33,7 +33,7 @@ vim config.json
             "url": "rx.unmineable.com:13333",
             "user": "BTC:34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX",
             "pass": "x",
-            "rig-id": null,
+            "rig-id": "hackingyseguridad.com",
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
@@ -45,7 +45,6 @@ vim config.json
             "submit-to-origin": false
         }
     ],
-
 
 
 # Ejecturar xmrig
