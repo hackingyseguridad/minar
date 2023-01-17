@@ -1,4 +1,0 @@
-
-
-nohup sudo ./xmrig &
-
