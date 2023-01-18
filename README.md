@@ -1,5 +1,7 @@
 #  Minar Criptominedas 
 
+necesitaremos un monedero o WALLET!
+
 Monedero BITCOIN 
 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX
 
