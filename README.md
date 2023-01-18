@@ -22,6 +22,10 @@ cd xmrig-6.18.1
 
 ./xmrig
 
+como proceso:
+
+nohup sudo ./minar.sh &
+
 # Condiguracion xmrig 
 
 ./xmrig -a randomx -o rx.unmineable.com:13333 -u BTC:34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX.rig1
