@@ -75,9 +75,6 @@ sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-de
 
 git clone https://github.com/xmrig/xmrig.git
 
-
-
-
 cd xmrig
 
 mkdir build
@@ -92,7 +89,9 @@ make
 
 https://unmineable.com/coins/BTC/address/34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX
 
+# Principales 100 criptomonedas y su valor 
 
+https://coinmarketcap.com/es/
 
 
 
