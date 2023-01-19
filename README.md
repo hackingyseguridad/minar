@@ -2,7 +2,7 @@
 
 necesitaremos un monedero o WALLET!
 
-Monedero BITCOIN 
+Monedero BITCOIN por ejemplo en https://www.coinbase.com/
 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX
 
 <img style="float:left" alt="Monedero BTC" src="https://github.com/hackingyseguridad/minar/blob/main/monedero.png">
