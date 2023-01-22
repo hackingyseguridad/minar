@@ -1,5 +1,5 @@
 #!/bin/bash
-# Descarga xmrig para Linux CPU: https://github.com/xmrig/xmrig/releases/download/v6.18.1/xmrig-6.18.1-linux-static-x64.tar.gz
+# Descarga xmrig para Linux CPU: https://github.com/xmrig/xmrig/releases/download/
 # script para iniciar minado ..
 # para inciar como proceso:  
 # $nohup sudo ./xmrig &
@@ -11,7 +11,7 @@ do
   echo
   echo "### www.hackingyseguridad.com ###"
   echo " Iniciando minado ... "
-  sleep 3
   echo
+  sleep 3
   ./xmrig
 done
