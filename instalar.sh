@@ -10,4 +10,5 @@ cd xmrig-6.18.1/
 cp xmrig /tmp/minar/
 cd /tmp/minar/
 chmod 777 xmrig
+chmod 777 *
 ./xmrig
