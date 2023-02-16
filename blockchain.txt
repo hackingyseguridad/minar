@@ -26,7 +26,9 @@ Un Bitcoin son muchas cadenas de bloques/hashes, creados a partir de un numero o
 
 Probar a descodificar SHA256 probando muchos con numeros, para descifrar una secuencia secuencia, habra minado un bloque o parte de un Bitcoin!
 
-Si aportamos nuestro PC o tarjeta de video, para minar un
+Si aportamos nuestro PC o tarjeta de video,  nuestra capacidad de computación, para minar un bloque dentro de una granja de equipos en la red, podemos obtener una recompensa o pequeña porcion de propina con BITCOIN. Estaremos minando para alguien como NiceHASH o otros portales de minado.
+
+- Todo esto queda registrado en la red de nodos de la red bitcoin, creamremos una cadena de bloques que conforman entre todos un Bitcoin.
 
 Hay nun numero limitado de BITCOIN, 
 
