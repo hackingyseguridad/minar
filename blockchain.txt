@@ -39,6 +39,8 @@ Monederoo de BITCOIN, WALET caliente y WALET fria
  los Bitcoin no existen como tal, sólo los registros en Blockchain que tienen asociado un balance. Lo que en realidad se registra y confirma en la cadena de bloques son los cambios de propiedad de las cantidades correspondientes entre diferentes direcciones, las alteraciones del balance.
  
  Los monederos o WALLET, se usan para almacenar nuestras claves privadas de forma segura.
+ 
+ Monedero de Bitcin 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX en coinbase.com
 
 
 
