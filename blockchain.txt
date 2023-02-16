@@ -40,7 +40,7 @@ Monederoo de BITCOIN, WALET caliente y WALET fria
  
  Los monederos o WALLET, se usan para almacenar nuestras claves privadas de forma segura.
  
- Monedero de Bitcin 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX en coinbase.com
+ Monedero de Bitcin 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX en coinbase.com donde almacenaremos los HASH de las porciones de las cadenas de bloques que tengamos 
 
 
 
