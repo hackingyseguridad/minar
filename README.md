@@ -1,3 +1,7 @@
+# Blockchain
+
+
+
 #  Minar Criptominedas 
 
 necesitaremos un monedero o WALLET!
