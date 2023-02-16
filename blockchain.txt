@@ -46,7 +46,7 @@ Monederoo de BITCOIN, WALET caliente y WALET fria
  Minedero de Bitcoin en soporte fisico (“cold wallet”), donde almacenaremos las claves privadas de nuestros HASH.
 
 
-
+https://www.coinbase.com/es-LA/learn/crypto-basics/what-is-a-private-key
 
 
 
