@@ -32,7 +32,9 @@ Si aportamos nuestro PC o tarjeta de video,  nuestra capacidad de computación, 
 
 Hay nun numero limitado de BITCOIN; Actualmente, el 91% de todo el suministro de bitcoin ya fue minado y está en circulación. Esto quiere decir que del máximo de 21 millones de BTC, ya hay más de 19 millones en el mercado.
 
-NFT, Un token no fungible (TNF, también conocido por la sigla NFT, en inglés, Non-Fungible Token) o vale no fungible1​ es un activo digital encriptado.2​ Se trata de un tipo especial de token criptográfico que representa algo único; Es una forma de certificar dentro de la cadena de token, la propiedad de un recurso software, y poder pujar por su precio. 
+"Token" es una porcion de un criptoactivo que se ejecutan sobre la cadena de bloques (BlockChain)
+
+Tokens no fungibles (NFT), un token no fungible (TNF, también conocido por la sigla NFT, en inglés, Non-Fungible Token) o vale no fungible1​ es un activo digital encriptado.2​ Se trata de un tipo especial de token criptográfico que representa algo único; Es una forma de certificar dentro de la cadena de token, la propiedad de un recurso software, y poder pujar por su precio. 
 
 Monederoo de BITCOIN, WALET caliente y WALET fria 
 
