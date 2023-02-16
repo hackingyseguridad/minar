@@ -36,6 +36,8 @@ NFT, Un token no fungible (TNF, también conocido por la sigla NFT, en inglés, 
 
 Monederoo de BITCOIN, WALET caliente y WALET fria 
 
+ los Bitcoin no existen como tal, sólo los registros en Blockchain que tienen asociado un balance. Lo que en realidad se registra y confirma en la cadena de bloques son los cambios de propiedad de las cantidades correspondientes entre diferentes direcciones, las alteraciones del balance.
+
 
 
 
