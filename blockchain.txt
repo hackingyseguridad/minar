@@ -30,7 +30,7 @@ Si aportamos nuestro PC o tarjeta de video,  nuestra capacidad de computación, 
 
 - Todo esto queda registrado en la red de nodos de la red bitcoin, creamremos una cadena de bloques (BLOCKCHAIN( que conforman entre todos un Bitcoin.
 
-Hay nun numero limitado de BITCOIN, 
+Hay nun numero limitado de BITCOIN; Actualmente, el 91% de todo el suministro de bitcoin ya fue minado y está en circulación. Esto quiere decir que del máximo de 21 millones de BTC, ya hay más de 19 millones en el mercado.
 
 
 
