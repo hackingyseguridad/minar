@@ -1,6 +1,6 @@
 # Blockchain
 
-
+https://github.com/hackingyseguridad/minar/blob/main/blockchain.txt
 
 #  Minar Criptominedas 
 
