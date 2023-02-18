@@ -49,7 +49,7 @@ Las billeteras,  contienen direcciones s Bitcoin , que se generan pasando la lla
  
  Clave Privada SHA256 --//--curva eliptica--//-- Clave Prublica ---//-- HASH --//-- Dirccion Bitcoin ---//-- Tocken 
  
-El monedero para trasferir saldo a otros monenderos, sera a traves de la cade de bloques por la red de nodos BlockChain Bitcoin donde se guardan los balances de todos. Para hacer la trasferencia de BTC sera neceasrio a
+El monedero para trasferir saldo a otros monenderos, sera a traves de la cade de bloques por la red de nodos BlockChain Bitcoin donde se guardan los registros de los envios . Para hacer la trasferencia de BTC sera neceasrio autorizarlo por la llave privada de nuestro monedero.
  
  https://es.wikipedia.org/wiki/Bitcoin
  
