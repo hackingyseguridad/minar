@@ -48,6 +48,10 @@ Las billeteras,  contienen direcciones s Bitcoin , que se generan pasando la lla
  Minedero de Bitcoin en soporte fisico (“cold wallet”), donde almacenaremos las claves privadas de nuestros HASH.
  
  Clave Privada SHA256 --//--curva eliptica--//-- Clave Prublica ---//-- HASH --//-- Dirccion Bitcoin ---//-- Tocken 
+ 
+ https://es.wikipedia.org/wiki/Bitcoin
+ 
+ 
 
 
 
