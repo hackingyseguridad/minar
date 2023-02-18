@@ -100,7 +100,11 @@ https://coinmarketcap.com/es/
 
 https://whattomine.com/
 
+<img style="float:left" alt="euro" src="https://github.com/hackingyseguridad/minar/blob/main/euro.png">
 
+# 
+
+http://www.hackingyseguridad.com
 
 
 
