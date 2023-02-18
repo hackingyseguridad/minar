@@ -38,6 +38,8 @@ Tokens no fungibles (NFT), un token no fungible (TNF, también conocido por la s
 
 Monederoo de BITCOIN, WALET caliente y WALET fria 
 
+Todo el funcionamiento de la Blockchain de Bitcoin está basado en diferentes tipos de llaves y direcciones.
+Las billeteras,  contienen direcciones s Bitcoin , que se generan pasando la llave pública a través de funciones hash SHA256. Con este nuevo hash que también es público, podemos recibir valor en nuestra billetera.
  los Bitcoin no existen como tal, sólo los registros en Blockchain que tienen asociado un balance. Lo que en realidad se registra y confirma en la cadena de bloques son los cambios de propiedad de las cantidades correspondientes entre diferentes direcciones, las alteraciones del balance.
  
  Los monederos o WALLET, se usan para almacenar nuestras claves privadas de forma segura.
@@ -45,8 +47,6 @@ Monederoo de BITCOIN, WALET caliente y WALET fria
  Monedero de Bitcin 34RBaQJBU51xQ3EiDFYELVL4Up1uL87etX en coinbase.com (“hot wallet”) donde almacenaremos los HASH de las porciones de las cadenas de bloques que tengamos. Normalmente son estos sitios quienes custodian las claves privadas. 
  Minedero de Bitcoin en soporte fisico (“cold wallet”), donde almacenaremos las claves privadas de nuestros HASH.
 
-
-https://www.coinbase.com/es-LA/learn/crypto-basics/what-is-a-private-key
 
 
 
