@@ -15,16 +15,13 @@ Servidor ------ cliente -------- Servidor
                    |
 		Servidor
 
+La información almacenada no esta en unico servidor, sino que hay trozos o bloques en todos los nodos de la red.
 
-La información almacenada no esta en unico servidor, sino que hay trozos o bloques en todos los nodos.
-
-Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin
-
-Las transacciones/trasferencias de 1 Bitcoin o una pedazo, quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin, 
+Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta la infraestructura Blokchain, los nodos bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin. 
 
 Un Bitcoin son muchas cadenas de bloques/hashes, creados a partir de un numero origen aleatorio, con complejos computos y calculos cifreados por SHA256, que entre todos conforman un HASH que identifica un Bitcoin
 
-Probar a descodificar SHA256 probando muchos con numeros, para descifrar una secuencia secuencia, habra minado un bloque o parte de un Bitcoin!
+Probar a descodificar SHA256 probando muchos con numeros, para descifrar una secuencia, habra minado un bloque o parte de un Bitcoin!
 
 Si aportamos nuestro PC o tarjeta de video,  nuestra capacidad de computación, para minar un bloque dentro de una granja de equipos en la red, podemos obtener una recompensa o pequeña porcion de propina con BITCOIN. Estaremos minando para alguien como NiceHASH o otros portales de minado.
 
@@ -53,13 +50,3 @@ El monedero para trasferir saldo a otros monenderos, sera a traves de la cade de
  
  https://es.wikipedia.org/wiki/Bitcoin
  
- 
-
-
-
-
-
-
-
-
-
