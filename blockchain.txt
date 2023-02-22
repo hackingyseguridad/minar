@@ -1,4 +1,4 @@
-BLOCKCHAIN 
+1.- BLOCKCHAIN 
 
 BlockChain, Tecnlogia de la cadena de bloques: Sitemas descentralizados
 
@@ -18,9 +18,9 @@ Servidor ------ cliente -------- Servidor
 
 La información almacenada, no esta en unico servidor, sino que hay trozos o bloques en todos los nodos de la red Blockchain!
 
-BITCOIN / MINERIA
+2.- BITCOIN / MINERIA
 
-Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, los nodos bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin. 
+Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, RED DE nodos Bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin. 
 
 Un Bitcoin son muchas cadenas de bloques/hashes, creados a partir de un numero origen aleatorio, con complejos computos y calculos cifreados por SHA256, que entre todos conforman un HASH que identifica un Bitcoin.
 
