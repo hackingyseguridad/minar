@@ -20,13 +20,13 @@ La información almacenada, no esta en unico servidor, sino que hay trozos o blo
 
 2.- BITCOIN / MINERIA
 
-Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, RED DE nodos Bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin. 
+Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, RED DE nodos Bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin (BTC) o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin (BTC). 
 
 Un Bitcoin son muchas cadenas de bloques/hashes, creados a partir de un numero origen aleatorio, con complejos computos y calculos cifreados por SHA256, que entre todos conforman un HASH que identifica un Bitcoin.
+https://emn178.github.io/online-tools/sha256.html
+El numero de combinaciones y HASH resultantes creados con SHA256 posibles es limitado!; se podran crear un total de 21 Millosnes de BTC.
 
-El numero de combinaciones y HASH  creados con SHA256 posibles es limitado, se podran crear un total de 21 Millosnes de BITCOIN.
-
-No existe un banco central o una entidad que genere nuevos BTC, por lo que si probamos a descodificar SHA256 probando muchos con numeros, para descifrar una secuencia, habra minado un bloque o parte de un Bitcoin! esto es el minado de BITCOIN
+No existe un banco central o una entidad que emita/genere nuevos HASH de Bitcoin (BTC), por lo que si probamos a descodificar SHA256 probando muchos con numeros, para descifrar una secuencia, habra minado un bloque o parte de un Bitcoin! esto es el minado de BITCOIN
 
 Si aportamos nuestro PC o tarjeta de video,  nuestra capacidad de computación, para minar un bloque dentro de una granja de equipos en la red, podemos obtener una recompensa o pequeña porcion de propina con BITCOIN. Estaremos minando para alguien como NiceHASH o otros portales de minado.
 
