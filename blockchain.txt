@@ -16,11 +16,23 @@ Servidor ------ cliente -------- Servidor
                    |
 		Servidor
 
-La información almacenada, no esta en unico servidor, sino que hay trozos o bloques en todos los nodos de la red Blockchain!
+El blockchain es una base de datos distribuida y segura (gracias al cifrado) que se puede aplicar a todo tipo de transacciones que no tienen por qué ser necesariamente económicas. La información almacenada, no esta en unico servidor, sino que hay trozos o bloques en todos los nodos de la red Blockchain!
+
+El blockchain elimina a los intermediarios, descentralizando toda gestión. El control del proceso es de los usuarios.
+
+Gracias al uso de una cadena de bloques común que se sincroniza entre los nodos, se logra la irreversibilidad de las transacciones, lo que permite que nadie "truque" el sistema o haga fraudes para beneficiarse modificando el libro de cuentas para desviar dinero de un lado a otro sin que otros se enteren.
+
+La “cadena de bloques” tiene un requisito importante: debe haber varios usuarios que se encarguen de verificar esas transacciones para validarlas y que así el bloque correspondiente a esa transacción se registre en ese gigantesco libro de cuentas em los nosdos
+
+Beneficios BlockChain:
+- Descentralizacion: con Blockchain, no hay intermediarios.
+- Trasparacncia: en cualquier momento pueden consultar dato que haya en la Blockchain
+- Inmutabilidad: es "imposible" hackear la Blockchain
 
 2.- BITCOIN / MINERIA
 
 Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, RED DE nodos Bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin (BTC) o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin (BTC). 
+Una unidad de una criptomoneda, es una cadena de números encriptada, que el sistema reconoce como una unidad legal. La mayoría se gestionan con el blockchain o cadena de bloques. Todas las unidades que se crean y todas las operaciones de compraventa se enlazan en una cadena encriptada, y para hacer algún cambio en ella hay que tener la aprobación de los miles de ordenadores que mantienen activa la cadena de bloques
 
 Un Bitcoin son muchas cadenas de bloques/hashes, creados a partir de un numero origen aleatorio, con complejos computos y calculos cifreados por SHA256, que entre todos conforman un HASH que identifica un Bitcoin.
 https://emn178.github.io/online-tools/sha256.html
