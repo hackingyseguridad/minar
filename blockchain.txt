@@ -29,6 +29,8 @@ Beneficios BlockChain:
 - Trasparacncia: en cualquier momento pueden consultar dato que haya en la Blockchain
 - Inmutabilidad: es "imposible" hackear la Blockchain
 
+https://101blockchains.com/es/tecnologia-blockchain/
+
 2.- BITCOIN / MINERIA
 
 Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, RED DE nodos Bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin (BTC) o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin (BTC). 
