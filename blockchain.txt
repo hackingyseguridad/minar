@@ -1,6 +1,6 @@
 1.- BLOCKCHAIN 
 
-BlockChain, Tecnlogia de la cadena de bloques: Sitemas descentralizados
+BlockChain, Tecnlogia de la cadena de bloques: Sitemas descentralizados,
 
 Arquitectura centralizada: un unico nodo central, que si falla o se cae, falle todo!
 
