@@ -7,7 +7,7 @@ Arquitectura centralizada: un unico nodo central, que si falla o se cae, falle t
 Cliente -----------//-------------Servicor
 
 Arquitectura descentralizada: Muchos participantes con comptuo en calcular el HASH de un Bloque con transancciones y almacenamiento de las transacciones criptodivisas y HASH en los Nodos Bitcoin con tecnologia BlockChain.
-En cada bloque se gestionan al rededor de 2000 transacciones. En los nodos queda guardado el HASH generado por bloque, y el bloque anterior, conformando una cadena de bloques, que quedaran almacenados en los nodos de la red Bitcoin
+En cada bloque se gestionan al rededor de 2000 transacciones. En los nodos queda guardado el HASH generado por bloque, y el bloque anterior, conformando una cadena de bloques, que quedaran almacenados en los nodos de la red Bitcoin.  Cada nodo tiene una copia de todas las trasnsacciones con sus HASH, si un nodo se cae no pasa nada, el resto de nodos tienen la BBDD  y registro de las trasferencias.
 
 No hay un unico punto central, hay muchos nodos distribuidos, todos rigen la red, funcionan por  bloques de cadenas de información, de forma sincronizada
 
