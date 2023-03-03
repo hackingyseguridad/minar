@@ -35,10 +35,10 @@ https://101blockchains.com/es/tecnologia-blockchain/
 
 2.- BITCOIN / MINERIA
 
-Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, RED DE nodos Bitcoin y los tokens. Las transacciones/trasferencias de 1 Bitcoin (BTC) o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin (BTC). 
+Esta es la filosofia de funcionamiento de algunas criptomonedas descentralizadas como (BTC) Bitcoin, donde esta: la infraestructura Blokchain, miles de PC de mineros, Red de nodos Bitcoin, HASHes y los tokens. Las transacciones/trasferencias de 1 Bitcoin (BTC) o una pedazo (tokens), quedarán registradas de forma sincronizada en todos los nodos de la red Bitcoin (BTC). 
 Una unidad de una criptomoneda, es una cadena de números encriptada, que el sistema reconoce como una unidad legal. La mayoría se gestionan con el blockchain o cadena de bloques. Todas las unidades que se crean y todas las operaciones de compraventa se enlazan en una cadena encriptada, y para hacer algún cambio en ella hay que tener la aprobación de los miles de ordenadores que mantienen activa la cadena de bloques
 
-Un Bitcoin son muchas cadenas de bloques/hashes, creados a partir de un numero origen aleatorio, con complejos computos y calculos cifreados por SHA256, que entre todos conforman un HASH que identifica un Bitcoin.
+Un Bitcoin son HASHes, creados a partir de un numero origen aleatorio, con complejos computos y calculos cifreados por SHA256, que entre todos conforman un HASH que identifica un Bitcoin.
 https://emn178.github.io/online-tools/sha256.html
 El numero de combinaciones y HASH resultantes creados con SHA256 posibles es limitado!; se podran crear un total de 21 Millosnes de BTC.
 
@@ -46,7 +46,7 @@ No existe un banco central o una entidad que emita/genere nuevos HASH de Bitcoin
 
 Si aportamos nuestro PC o tarjeta de video,  nuestra capacidad de computación, para minar un bloque dentro de una granja de equipos en la red, podemos obtener una recompensa o pequeña porcion de propina con BITCOIN. Estaremos minando para alguien como NiceHASH o otros portales de minado.
 
-- Todo esto queda registrado en la red de nodos de la red bitcoin, creamremos una cadena de bloques (BLOCKCHAIN( que conforman entre todos un Bitcoin.
+- Todo esto queda registrado en la red BLocKChain de nodos de la red bitcoin, creamremos una cadena de bloques (BLOCKCHAIN( que conforman entre todos un Bitcoin.
 
 Hay nun numero limitado de BITCOIN; Actualmente, el 91% de todo el suministro de bitcoin ya fue minado y está en circulación. Esto quiere decir que del máximo de 21 millones de BTC, ya hay más de 19 millones en el mercado.
 
