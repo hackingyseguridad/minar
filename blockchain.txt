@@ -6,7 +6,7 @@ Arquitectura centralizada: un unico nodo central, que si falla o se cae, falle t
 
 Cliente -----------//-------------Servicor
 
-Arquitectura descentralizada: criptodivisas, NFT, inteligencia artificial
+Arquitectura descentralizada: participantes en calcular el HASH de un Bloque con transancciones y almacenamiento de las transacciones criptodivisas y HASH en los Nodos Bitcoin con tecnologia BlockChain  
 
 No hay un unico punto central, hay muchos nodos distribuidos, que funcionan por cadenas de bloques de información, de forma sincronizada
 
