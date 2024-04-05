@@ -1,6 +1,9 @@
 #!/bin/sh
 echo
 echo instalando...
-apt-get install xmrig
 echo
+apt-get install xmrig
+echo "."
+cp config.json /usr/bin/config.json
+echo ".."
 xmrig
